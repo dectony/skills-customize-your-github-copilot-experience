@@ -86,6 +86,20 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "intro-to-sql",
+      "title": "Intro to SQL with SQLite",
+      "description": "Query and manipulate a SQLite database using Python's built-in sqlite3 module.",
+      "path": "assignments/intro-to-sql",
+      "dueDate": "2026-05-21",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }

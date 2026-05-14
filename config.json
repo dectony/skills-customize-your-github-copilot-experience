@@ -58,6 +58,34 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "rest-apis-fastapi",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Build and extend a REST API using FastAPI, covering routes, HTTP methods, path parameters, and Pydantic models.",
+      "path": "assignments/rest-apis-fastapi",
+      "dueDate": "2026-05-21",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "intro-to-aspnet",
+      "title": "Intro to ASP.NET",
+      "description": "Build a simple web API using ASP.NET Core, covering controllers, routes, and HTTP methods.",
+      "path": "assignments/intro-to-aspnet",
+      "dueDate": "2026-05-21",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.cs",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
